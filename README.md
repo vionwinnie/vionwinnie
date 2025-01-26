@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @vionwinnie
-- 👀 I’m interested in natural language processing to solve business problems
-- 🌱 I’m currently creating generative AI applications
+- 👀 Currently on Square Conversations AI team.
+- 🌱 I work on LLM Agents, LLM Evaluation, LLM system design in general
 - 💞️ I’m looking to collaborate on Cantonese related NLP projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/winnieyeung)
-- 🏓 I like playing table tennis, gardening, reading, cooking in my free time.
+- 🏓 3rd Place in US Open 2024 30& Over Women's Single, Highest Rating: 2047
 
 <!---
 vionwinnie/vionwinnie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
